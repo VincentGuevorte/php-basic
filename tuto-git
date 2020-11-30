@@ -1,0 +1,12 @@
+local: créer sa branche de fonctionnalité
+local: git add && git commit
+local: git push la branche de fonctionnalité
+github: pull request
+github: quand on la validation des collègues, on merge le code
+local: git checkout master
+local: git pull
+
+git push -u origin master
+master -> origin/master
+
+git pull
