@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '2057c197c133e60f3cd4d3d318c96643484afbcb',
+    'reference' => 'defe1216be719c99a72e45492422249f9f3a896d',
     'name' => '__root__',
   ),
   'versions' => 
@@ -18,7 +18,16 @@
       'aliases' => 
       array (
       ),
-      'reference' => '2057c197c133e60f3cd4d3d318c96643484afbcb',
+      'reference' => 'defe1216be719c99a72e45492422249f9f3a896d',
+    ),
+    'symfony/polyfill-ctype' => 
+    array (
+      'pretty_version' => 'v1.20.0',
+      'version' => '1.20.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'f4ba089a5b6366e453971d3aad5fe8e897b37f41',
     ),
     'symfony/polyfill-mbstring' => 
     array (
@@ -46,6 +55,15 @@
       array (
       ),
       'reference' => '173a79c462b1c81e1fa26129f71e41333d846b26',
+    ),
+    'twig/twig' => 
+    array (
+      'pretty_version' => 'v3.1.1',
+      'version' => '3.1.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'b02fa41f3783a2616eccef7b92fbc2343ffed737',
     ),
   ),
 );
